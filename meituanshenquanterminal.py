@@ -62,7 +62,8 @@ global propIdforuse
 showPriceNumber = "1"
 wm_latitude =1.0
 wm_longitude=1.0
-token =""
+token ="EAZvNor2vCwNGdh03oa-CNu4SJAAAAAAVg8AAJUfSPsUUCOIzBRXhSAvfyhu3mjAOpCqJDmEVTSbUX7a29Z_wbMm1zyNVXXMm7GR0g; 
+"
 propId=1
 exchangeCoinNumber=1.0
 serverkey=""
